@@ -4,11 +4,64 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be8b6011-9ed4-4546-ba29-bd095a0fc41f" name="变更" comment="bgcode" />
+    <list default="true" id="be8b6011-9ed4-4546-ba29-bd095a0fc41f" name="变更" comment="bgcode">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/abstractfactory/Abstractfactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/abstractfactory/Blue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/abstractfactory/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/abstractfactory/ColorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/abstractfactory/Green.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/abstractfactory/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/factory/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/factory/FactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/factory/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/factory/Rectangls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/factory/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/factory/ShapeFactoy_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/factory/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/io/Iostream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/io/create_Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/io/create_file.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/io/file_Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/io/file_Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/io/file_bufferRW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/io/file_copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/io/file_infromation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/single/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/bg/single/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bgcode/fa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bgcode/fa1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bgcode/getname.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hell.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hello1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/k1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/k12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/s.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,11 +73,31 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="/usr/local/apache-maven-3.8.7" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="workspaceImportEnabled" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="11" />
+      <option value="12" />
+      <option value="13" />
+      <option value="14" />
+      <option value="15" />
+      <option value="16" />
+      <option value="200" />
+    </hideBySeverity>
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="sortByName" value="true" />
+    <option name="sortBySeverity" value="false" />
   </component>
   <component name="ProjectId" id="2L1aGho2P7Et2omieOwcBQGkoFf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -39,14 +112,134 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowRestfulTool.ShowToolbar": "false",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/bgcode/IdeaProjects/Study/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "settings.saveactions",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.bg.single" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bg.abstractfactory" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install:install" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.file_copy.m4">
+    <configuration name="file_bufferRW.m3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bg.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bg.io" />
+      <option name="MAIN_CLASS_NAME" value="com.bg.io.file_bufferRW" />
+      <option name="METHOD_NAME" value="m3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="file_bufferRW.m4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bg.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bg.io" />
+      <option name="MAIN_CLASS_NAME" value="com.bg.io.file_bufferRW" />
+      <option name="METHOD_NAME" value="m4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="file_copy.m1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bg.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bg.io" />
+      <option name="MAIN_CLASS_NAME" value="com.bg.io.file_copy" />
+      <option name="METHOD_NAME" value="m1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="file_copy.m3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bg.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bg.io" />
+      <option name="MAIN_CLASS_NAME" value="com.bg.io.file_copy" />
+      <option name="METHOD_NAME" value="m3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="file_copy.m4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bg.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bg.io" />
+      <option name="MAIN_CLASS_NAME" value="com.bg.io.file_copy" />
+      <option name="METHOD_NAME" value="m4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.file_copy.m4" />
+        <item itemvalue="JUnit.file_copy.m1" />
+        <item itemvalue="JUnit.file_bufferRW.m3" />
+        <item itemvalue="JUnit.file_bufferRW.m4" />
+        <item itemvalue="JUnit.file_copy.m3" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -55,7 +248,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675040948209</updated>
-      <workItem from="1675040949272" duration="404000" />
+      <workItem from="1675040949272" duration="2134000" />
+      <workItem from="1675043795581" duration="76000" />
+      <workItem from="1675043877621" duration="275000" />
+      <workItem from="1675044155600" duration="3383000" />
+      <workItem from="1675050927877" duration="3241000" />
+      <workItem from="1675173366374" duration="589000" />
+      <workItem from="1675336332651" duration="10650000" />
+      <workItem from="1675385483998" duration="11270000" />
     </task>
     <task id="LOCAL-00001" summary="bgcode">
       <created>1675040998886</created>
@@ -64,15 +264,80 @@
       <option name="project" value="LOCAL" />
       <updated>1675040998886</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bgcode">
+      <created>1675042134141</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675042134141</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="bgcode" />
     <option name="LAST_COMMIT_MESSAGE" value="bgcode" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/com/bg/io/file_infromation.java</url>
+          <line>8</line>
+          <properties class="com.bg.io.file_infromation" method="info">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/com/bg/io/file_copy.java</url>
+          <line>8</line>
+          <properties class="com.bg.io.file_copy" method="m1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/com/bg/io/file_Reader.java</url>
+          <line>10</line>
+          <properties class="com.bg.io.file_Reader" method="m1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/com/bg/io/file_bufferRW.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/com/bg/io/file_bufferRW.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
